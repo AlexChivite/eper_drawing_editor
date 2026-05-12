@@ -1,0 +1,30 @@
+# Archivo de cambios para pdf_updater.py
+#
+# Solo se modifican los campos que aparezcan en [fields].
+# Si no quieres cambiar textos, deja [fields] vacio.
+#
+# Campos disponibles:
+# title
+# drawing_title
+# drawn
+# verified
+# reviewed
+# approved
+
+[fields]
+
+[options]
+# Color de NUMERO PLANO / DRW NUMBER: "red" o "green".
+drw_number_color = "green"
+
+# Actualiza el numero de pagina y el total usando la posicion real dentro del PDF.
+update_sheet = true
+
+# Repara las fechas A3 de REVIEWED/APPROVED copiandolas desde VERIFIED.
+repair_a3_review_dates = false
+
+# Limpia filas del historico de revision y textos sueltos que contengan ERROR.
+clean_revision_errors = false
+
+# Rellena NUMERO PLANO / DRW NUMBER en tablas padre usando REFERENCIA y DRW No.
+update_parent_drawing_numbers = true
