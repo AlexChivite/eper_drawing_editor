@@ -49,7 +49,15 @@ WRITE_COLORS = {
 
 FONT_NAME = FONT
 
-EDITABLE_TEXT_FIELDS = ("title", "drawing_title", "drawn", "verified", "reviewed", "approved")
+EDITABLE_TEXT_FIELDS = (
+    "title",
+    "drawing_title",
+    "drawn",
+    "verified",
+    "reviewed",
+    "approved",
+    "control_plan_quality_specification",
+)
 DRAWING_CODE_PATTERN = re.compile(r"\bGP\d{6}(?:[-_A-Z0-9]+)*\b", re.IGNORECASE)
 PARENT_DRAWING_NUMBER_REPORT_SUFFIX = "_parent_drawing_numbers_dry_run.csv"
 PARENT_DRAWING_NUMBER_WRITE_STATUSES = {"exact_unique", "exact_multiple"}
@@ -114,6 +122,14 @@ CONFIG_A3_LANDSCAPE = {
         "font_size": FONTSIZE,
         "max_width": 52.0,
     },
+    "control_plan_quality_specification": {
+        "cover": (254.0, 112.7, 368.2, 128.4),
+        "cell": (253.4, 112.1, 368.7, 128.5),
+        "baseline_y": 124.3,
+        "font_size": FONTSIZE,
+        "max_width": 112.0,
+        "align": "center",
+    },
     "sheet": {
         "current": {
             "cover": (1104.5, 733.0, 1119.0, 745.9),
@@ -168,6 +184,14 @@ CONFIG_A4_PORTRAIT = {
         "text_pos": (126.5, 810.7),
         "font_size": FONTSIZE,
         "max_width": 52.0,
+    },
+    "control_plan_quality_specification": {
+        "cover": (240.4, 112.8, 356.6, 128.7),
+        "cell": (240.0, 112.4, 357.0, 129.0),
+        "baseline_y": 124.8,
+        "font_size": FONTSIZE,
+        "max_width": 113.0,
+        "align": "center",
     },
     "sheet": {
         "current": {
@@ -1277,7 +1301,11 @@ def process_pdf(
 
             for field_name in EDITABLE_TEXT_FIELDS:
                 if field_name in values:
-                    write_field(page, field_name, values[field_name], config[field_name])
+                    field_config = config[field_name]
+                    if field_config.get("align") == "center":
+                        write_centered_field(page, field_name, values[field_name], field_config)
+                    else:
+                        write_field(page, field_name, values[field_name], field_config)
 
             if change_config.update_sheet:
                 write_sheet_field(page, values["sheet_current"], values["sheet_total"], config["sheet"])

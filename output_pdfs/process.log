@@ -1,0 +1,1034 @@
+2026-05-13 16:18:59,051 | INFO | PDFs encontrados en C:\Proyectos\Oficina Técnica\Modificación PDFs\eper_drawing_editor\input_pdfs: 1
+2026-05-13 16:18:59,063 | INFO | Archivo de cambios: C:\Proyectos\Oficina Técnica\Modificación PDFs\eper_drawing_editor\changes.toml
+2026-05-13 16:18:59,063 | INFO | Cambios solicitados: fields=title, drawing_title, drawn, verified, reviewed, approved, control_plan_quality_specification update_sheet=True repair_a3_review_dates=False clean_revision_errors=False update_parent_drawing_numbers=True drw_number_color=green
+2026-05-13 16:18:59,063 | INFO | Procesando archivo: GP676764_R0_COLECCION.pdf
+2026-05-13 16:19:01,397 | INFO | NUMERO PLANO: 83 DRW No. indexados, 193 referencias detectadas.
+2026-05-13 16:19:01,398 | INFO | NUMERO PLANO: escrituras planificadas=146 exact_unique=143 exact_multiple=3 not_found=47
+2026-05-13 16:19:01,398 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=1/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:01,469 | INFO | NUMERO PLANO escrito: pagina=1 tabla=1 fila=2 referencia=GP680159 -> paginas=80 estado=exact_unique redact=(749.69, 640.26, 803.09, 648.47) text_pos=(774.17, 646.67) font_size=4.00
+2026-05-13 16:19:01,530 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:01,588 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:01,643 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:01,699 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:01,751 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:01,808 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:01,864 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:01,921 | INFO | Campo escrito: sheet_no valor='1' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1109.53, 741.9) font_size=8.00
+2026-05-13 16:19:01,978 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:01,978 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=2/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:02,009 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,028 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,066 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:02,092 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:02,117 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:02,146 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:02,174 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:02,199 | INFO | Campo escrito: sheet_no valor='2' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1109.53, 741.9) font_size=8.00
+2026-05-13 16:19:02,230 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:02,230 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=3/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,233 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,241 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,245 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,250 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,255 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,260 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,265 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,268 | INFO | Campo escrito: sheet_no valor='3' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,274 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,274 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=4/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,278 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,284 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,289 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,293 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,299 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,310 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,316 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,317 | INFO | Campo escrito: sheet_no valor='4' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,324 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,326 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=5/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,327 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,335 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,340 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,345 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,349 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,356 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,360 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,367 | INFO | Campo escrito: sheet_no valor='5' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,371 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,372 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=6/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,378 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,383 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,387 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,394 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,398 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,402 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,407 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,412 | INFO | Campo escrito: sheet_no valor='6' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,418 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,418 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=7/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:02,444 | INFO | NUMERO PLANO escrito: pagina=7 tabla=1 fila=1 referencia=GP680158-100-100 -> paginas=10, 11, 12, 13 estado=exact_multiple redact=(1095.02, 47.64, 1135.55, 55.85) text_pos=(1103.05, 54.05) font_size=4.00
+2026-05-13 16:19:02,467 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,497 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,522 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:02,547 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:02,572 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:02,598 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:02,622 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:02,648 | INFO | Campo escrito: sheet_no valor='7' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1109.53, 741.9) font_size=8.00
+2026-05-13 16:19:02,673 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:02,673 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=8/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,676 | INFO | NUMERO PLANO escrito: pagina=8 tabla=1 fila=1 referencia=GP680158-100-01 -> paginas=8 estado=exact_unique redact=(480.35, 591.15, 533.75, 599.37) text_pos=(505.94, 597.57) font_size=4.00
+2026-05-13 16:19:02,686 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,691 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,697 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,701 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,708 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,714 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,721 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,726 | INFO | Campo escrito: sheet_no valor='8' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,731 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,732 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=9/88 formato=A4_PORTRAIT
+2026-05-13 16:19:02,735 | INFO | NUMERO PLANO escrito: pagina=9 tabla=1 fila=1 referencia=GP680158-100-02 -> paginas=9 estado=exact_unique redact=(480.01, 591.5, 533.41, 599.71) text_pos=(505.6, 597.91) font_size=4.00
+2026-05-13 16:19:02,745 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:02,750 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:02,755 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:02,760 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:02,766 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:02,770 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:02,777 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:02,780 | INFO | Campo escrito: sheet_no valor='9' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(528.53, 742.5) font_size=8.00
+2026-05-13 16:19:02,786 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:02,788 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=10/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:02,809 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=1 referencia=GP680158-100-100-01 -> paginas=14 estado=exact_unique redact=(1075.54, 45.79, 1128.94, 54.0) text_pos=(1100.02, 52.2) font_size=4.00
+2026-05-13 16:19:02,829 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=2 referencia=GP680158-100-100-02 -> paginas=15 estado=exact_unique redact=(1075.54, 61.19, 1128.94, 69.4) text_pos=(1100.02, 67.6) font_size=4.00
+2026-05-13 16:19:02,848 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=3 referencia=GP680158-100-100-03 -> paginas=16 estado=exact_unique redact=(1075.54, 76.59, 1128.94, 84.8) text_pos=(1100.02, 83.0) font_size=4.00
+2026-05-13 16:19:02,868 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=4 referencia=GP680158-100-100-04 -> paginas=17 estado=exact_unique redact=(1075.54, 91.99, 1128.94, 100.2) text_pos=(1100.02, 98.4) font_size=4.00
+2026-05-13 16:19:02,887 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=5 referencia=GP680158-100-100-05 -> paginas=18 estado=exact_unique redact=(1075.54, 107.39, 1128.94, 115.6) text_pos=(1100.02, 113.8) font_size=4.00
+2026-05-13 16:19:02,910 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=6 referencia=GP680158-100-100-06 -> paginas=19 estado=exact_unique redact=(1075.54, 122.78, 1128.94, 131.0) text_pos=(1100.02, 129.2) font_size=4.00
+2026-05-13 16:19:02,934 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=7 referencia=GP680158-100-100-07 -> paginas=20 estado=exact_unique redact=(1075.54, 138.18, 1128.94, 146.4) text_pos=(1100.02, 144.6) font_size=4.00
+2026-05-13 16:19:02,958 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=8 referencia=GP680158-100-100-08 -> paginas=21 estado=exact_unique redact=(1075.54, 153.58, 1128.94, 161.79) text_pos=(1100.02, 159.99) font_size=4.00
+2026-05-13 16:19:02,981 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=9 referencia=GP680158-100-100-09 -> paginas=22 estado=exact_unique redact=(1075.54, 168.98, 1128.94, 177.19) text_pos=(1100.02, 175.39) font_size=4.00
+2026-05-13 16:19:03,000 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=10 referencia=GP680158-100-100-10 -> paginas=23 estado=exact_unique redact=(1075.54, 184.38, 1128.94, 192.59) text_pos=(1100.02, 190.79) font_size=4.00
+2026-05-13 16:19:03,018 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=11 referencia=GP680158-100-100-11 -> paginas=24 estado=exact_unique redact=(1075.54, 199.78, 1128.94, 207.99) text_pos=(1100.02, 206.19) font_size=4.00
+2026-05-13 16:19:03,039 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=12 referencia=GP680158-100-100-12 -> paginas=25 estado=exact_unique redact=(1075.54, 215.18, 1128.94, 223.39) text_pos=(1100.02, 221.59) font_size=4.00
+2026-05-13 16:19:03,060 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=13 referencia=GP680158-100-100-13 -> paginas=26 estado=exact_unique redact=(1075.54, 230.58, 1128.94, 238.79) text_pos=(1100.02, 236.99) font_size=4.00
+2026-05-13 16:19:03,077 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=14 referencia=GP680158-100-100-14 -> paginas=27 estado=exact_unique redact=(1075.54, 245.97, 1128.94, 254.19) text_pos=(1100.02, 252.39) font_size=4.00
+2026-05-13 16:19:03,094 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=15 referencia=GP680158-100-100-15 -> paginas=28 estado=exact_unique redact=(1075.54, 261.37, 1128.94, 269.59) text_pos=(1100.02, 267.79) font_size=4.00
+2026-05-13 16:19:03,114 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=16 referencia=GP680158-100-100-16 -> paginas=29 estado=exact_unique redact=(1075.54, 276.77, 1128.94, 284.98) text_pos=(1100.02, 283.18) font_size=4.00
+2026-05-13 16:19:03,132 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=17 referencia=GP680158-100-100-17 -> paginas=30 estado=exact_unique redact=(1075.54, 292.17, 1128.94, 300.38) text_pos=(1100.02, 298.58) font_size=4.00
+2026-05-13 16:19:03,154 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=18 referencia=GP680158-100-100-18 -> paginas=31 estado=exact_unique redact=(1075.54, 307.57, 1128.94, 315.78) text_pos=(1100.02, 313.98) font_size=4.00
+2026-05-13 16:19:03,191 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=19 referencia=GP680158-100-100-19 -> paginas=32 estado=exact_unique redact=(1075.54, 322.97, 1128.94, 331.18) text_pos=(1100.02, 329.38) font_size=4.00
+2026-05-13 16:19:03,214 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=20 referencia=GP680158-100-100-20 -> paginas=33 estado=exact_unique redact=(1075.54, 338.37, 1128.94, 346.58) text_pos=(1100.02, 344.78) font_size=4.00
+2026-05-13 16:19:03,232 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=21 referencia=GP680158-100-100-21 -> paginas=34 estado=exact_unique redact=(1075.54, 353.77, 1128.94, 361.98) text_pos=(1100.02, 360.18) font_size=4.00
+2026-05-13 16:19:03,256 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=22 referencia=GP680158-100-100-22 -> paginas=35 estado=exact_unique redact=(1075.54, 369.16, 1128.94, 377.38) text_pos=(1100.02, 375.58) font_size=4.00
+2026-05-13 16:19:03,276 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=23 referencia=GP680158-100-100-23 -> paginas=36 estado=exact_unique redact=(1075.54, 384.56, 1128.94, 392.77) text_pos=(1100.02, 390.97) font_size=4.00
+2026-05-13 16:19:03,293 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=24 referencia=GP680158-100-100-25 -> paginas=38 estado=exact_unique redact=(1075.54, 399.96, 1128.94, 408.17) text_pos=(1100.02, 406.37) font_size=4.00
+2026-05-13 16:19:03,311 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=25 referencia=GP680158-100-100-24 -> paginas=37 estado=exact_unique redact=(1075.54, 415.36, 1128.94, 423.57) text_pos=(1100.02, 421.77) font_size=4.00
+2026-05-13 16:19:03,330 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=26 referencia=GP680158-100-100-26 -> paginas=39 estado=exact_unique redact=(1075.54, 430.76, 1128.94, 438.97) text_pos=(1100.02, 437.17) font_size=4.00
+2026-05-13 16:19:03,349 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=27 referencia=GP680158-100-100-27 -> paginas=40 estado=exact_unique redact=(1075.54, 446.16, 1128.94, 454.37) text_pos=(1100.02, 452.57) font_size=4.00
+2026-05-13 16:19:03,367 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=28 referencia=GP680158-100-100-28 -> paginas=41 estado=exact_unique redact=(1075.54, 461.56, 1128.94, 469.77) text_pos=(1100.02, 467.97) font_size=4.00
+2026-05-13 16:19:03,381 | INFO | NUMERO PLANO escrito: pagina=10 tabla=1 fila=29 referencia=GP680158-100-100-31 -> paginas=44 estado=exact_unique redact=(1075.54, 476.96, 1128.94, 485.17) text_pos=(1100.02, 483.37) font_size=4.00
+2026-05-13 16:19:03,401 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,423 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,441 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:03,460 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:03,479 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:03,498 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:03,517 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:03,532 | INFO | Campo escrito: sheet_no valor='10' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:03,547 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:03,547 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=11/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:03,577 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,595 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,614 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:03,633 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:03,650 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:03,668 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:03,678 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:03,708 | INFO | Campo escrito: sheet_no valor='11' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:03,727 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:03,727 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=12/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:03,744 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,759 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,774 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:03,784 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:03,802 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:03,812 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:03,834 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:03,848 | INFO | Campo escrito: sheet_no valor='12' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:03,864 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:03,864 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=13/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:03,869 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,872 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,875 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:03,882 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:03,885 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:03,888 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:03,894 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:03,899 | INFO | Campo escrito: sheet_no valor='13' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:03,901 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:03,901 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=14/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:03,909 | INFO | NUMERO PLANO escrito: pagina=14 tabla=1 fila=1 referencia=GP680158-100-100-01 -> paginas=14 estado=exact_unique redact=(1074.72, 578.36, 1128.12, 586.58) text_pos=(1099.2, 584.78) font_size=4.00
+2026-05-13 16:19:03,916 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,921 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,928 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:03,931 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:03,940 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:03,942 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:03,954 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:03,961 | INFO | Campo escrito: sheet_no valor='14' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:03,967 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:03,967 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=15/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:03,975 | INFO | NUMERO PLANO escrito: pagina=15 tabla=1 fila=1 referencia=GP680158-100-100-02 -> paginas=15 estado=exact_unique redact=(1075.74, 578.72, 1129.14, 586.93) text_pos=(1100.21, 585.13) font_size=4.00
+2026-05-13 16:19:03,982 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:03,989 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:03,993 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:04,002 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:04,008 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:04,014 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:04,021 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:04,028 | INFO | Campo escrito: sheet_no valor='15' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:04,034 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:04,034 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=16/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,035 | INFO | NUMERO PLANO escrito: pagina=16 tabla=1 fila=1 referencia=GP680158-100-100-03 -> paginas=16 estado=exact_unique redact=(479.57, 591.3, 532.97, 599.51) text_pos=(504.05, 597.71) font_size=4.00
+2026-05-13 16:19:04,046 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,050 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,055 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,059 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,064 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,068 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,071 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,078 | INFO | Campo escrito: sheet_no valor='16' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,082 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,082 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=17/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,087 | INFO | NUMERO PLANO escrito: pagina=17 tabla=1 fila=1 referencia=GP680158-100-100-04 -> paginas=17 estado=exact_unique redact=(480.18, 591.04, 533.58, 599.25) text_pos=(504.66, 597.45) font_size=4.00
+2026-05-13 16:19:04,093 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,097 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,101 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,105 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,110 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,115 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,117 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,123 | INFO | Campo escrito: sheet_no valor='17' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,128 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,128 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=18/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,134 | INFO | NUMERO PLANO escrito: pagina=18 tabla=1 fila=1 referencia=GP680158-100-100-05 -> paginas=18 estado=exact_unique redact=(480.14, 590.8, 533.54, 599.01) text_pos=(504.61, 597.21) font_size=4.00
+2026-05-13 16:19:04,139 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,143 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,149 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,151 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,157 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,163 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,168 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,170 | INFO | Campo escrito: sheet_no valor='18' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,176 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,177 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=19/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,181 | INFO | NUMERO PLANO escrito: pagina=19 tabla=1 fila=1 referencia=GP680158-100-100-06 -> paginas=19 estado=exact_unique redact=(479.67, 591.28, 533.06, 599.49) text_pos=(504.14, 597.69) font_size=4.00
+2026-05-13 16:19:04,186 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,190 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,194 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,198 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,200 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,207 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,211 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,216 | INFO | Campo escrito: sheet_no valor='19' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,221 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,221 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=20/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:04,229 | INFO | NUMERO PLANO escrito: pagina=20 tabla=1 fila=1 referencia=GP680158-100-100-07 -> paginas=20 estado=exact_unique redact=(1075.06, 579.17, 1128.46, 587.38) text_pos=(1099.53, 585.58) font_size=4.00
+2026-05-13 16:19:04,235 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,243 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,249 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:04,256 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:04,261 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:04,270 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:04,277 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:04,283 | INFO | Campo escrito: sheet_no valor='20' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:04,291 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:04,292 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=21/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:04,295 | INFO | NUMERO PLANO escrito: pagina=21 tabla=1 fila=1 referencia=GP680158-100-100-08 -> paginas=21 estado=exact_unique redact=(1075.49, 578.94, 1128.89, 587.16) text_pos=(1099.96, 585.36) font_size=4.00
+2026-05-13 16:19:04,303 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,307 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,313 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:04,318 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:04,323 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:04,328 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:04,334 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:04,336 | INFO | Campo escrito: sheet_no valor='21' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:04,343 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:04,344 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=22/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,347 | INFO | NUMERO PLANO escrito: pagina=22 tabla=1 fila=1 referencia=GP680158-100-100-09 -> paginas=22 estado=exact_unique redact=(480.17, 591.25, 533.56, 599.47) text_pos=(504.64, 597.67) font_size=4.00
+2026-05-13 16:19:04,353 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,357 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,361 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,367 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,371 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,376 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,381 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,385 | INFO | Campo escrito: sheet_no valor='22' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,389 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,389 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=23/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,395 | INFO | NUMERO PLANO escrito: pagina=23 tabla=1 fila=1 referencia=GP680158-100-100-10 -> paginas=23 estado=exact_unique redact=(480.09, 591.05, 533.49, 599.26) text_pos=(504.57, 597.46) font_size=4.00
+2026-05-13 16:19:04,400 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,404 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,408 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,413 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,417 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,420 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,427 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,430 | INFO | Campo escrito: sheet_no valor='23' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,437 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,437 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=24/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,445 | INFO | NUMERO PLANO escrito: pagina=24 tabla=1 fila=1 referencia=GP680158-100-100-11 -> paginas=24 estado=exact_unique redact=(480.33, 591.32, 533.72, 599.53) text_pos=(504.8, 597.73) font_size=4.00
+2026-05-13 16:19:04,451 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,456 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,466 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,472 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,479 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,485 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,492 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,497 | INFO | Campo escrito: sheet_no valor='24' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,503 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,503 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=25/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,511 | INFO | NUMERO PLANO escrito: pagina=25 tabla=1 fila=1 referencia=GP680158-100-100-12 -> paginas=25 estado=exact_unique redact=(479.91, 591.07, 533.31, 599.28) text_pos=(504.39, 597.48) font_size=4.00
+2026-05-13 16:19:04,516 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,521 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,525 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,529 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,535 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,538 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,544 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,548 | INFO | Campo escrito: sheet_no valor='25' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,553 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,553 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=26/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:04,566 | INFO | NUMERO PLANO escrito: pagina=26 tabla=1 fila=1 referencia=GP680158-100-100-13 -> paginas=26 estado=exact_unique redact=(1075.84, 578.71, 1129.24, 586.92) text_pos=(1100.32, 585.12) font_size=4.00
+2026-05-13 16:19:04,578 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,586 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,601 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:04,615 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:04,627 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:04,634 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:04,647 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:04,661 | INFO | Campo escrito: sheet_no valor='26' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:04,673 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:04,673 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=27/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,679 | INFO | NUMERO PLANO escrito: pagina=27 tabla=1 fila=1 referencia=GP680158-100-100-14 -> paginas=27 estado=exact_unique redact=(480.02, 591.09, 533.42, 599.3) text_pos=(504.49, 597.5) font_size=4.00
+2026-05-13 16:19:04,683 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,686 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,692 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,696 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,700 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,704 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,708 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,711 | INFO | Campo escrito: sheet_no valor='27' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,717 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,718 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=28/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,721 | INFO | NUMERO PLANO escrito: pagina=28 tabla=1 fila=1 referencia=GP680158-100-100-15 -> paginas=28 estado=exact_unique redact=(480.24, 591.36, 533.63, 599.57) text_pos=(504.71, 597.77) font_size=4.00
+2026-05-13 16:19:04,727 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,732 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,736 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,740 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,745 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,750 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,754 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,758 | INFO | Campo escrito: sheet_no valor='28' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,760 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,760 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=29/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:04,769 | INFO | NUMERO PLANO escrito: pagina=29 tabla=1 fila=1 referencia=GP680158-100-100-16 -> paginas=29 estado=exact_unique redact=(1075.17, 578.45, 1128.57, 586.66) text_pos=(1099.64, 584.86) font_size=4.00
+2026-05-13 16:19:04,774 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,777 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,784 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:04,787 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:04,792 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:04,796 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:04,801 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:04,806 | INFO | Campo escrito: sheet_no valor='29' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:04,811 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:04,812 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=30/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,816 | INFO | NUMERO PLANO escrito: pagina=30 tabla=1 fila=1 referencia=GP680158-100-100-17 -> paginas=30 estado=exact_unique redact=(480.43, 590.87, 533.83, 599.08) text_pos=(504.9, 597.28) font_size=4.00
+2026-05-13 16:19:04,821 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,825 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,828 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,834 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,838 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,842 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,847 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,850 | INFO | Campo escrito: sheet_no valor='30' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,853 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,853 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=31/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,860 | INFO | NUMERO PLANO escrito: pagina=31 tabla=1 fila=1 referencia=GP680158-100-100-18 -> paginas=31 estado=exact_unique redact=(480.36, 591.27, 533.76, 599.49) text_pos=(504.84, 597.69) font_size=4.00
+2026-05-13 16:19:04,866 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,869 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,875 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,877 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,883 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,888 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,895 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,899 | INFO | Campo escrito: sheet_no valor='31' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,903 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,904 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=32/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,910 | INFO | NUMERO PLANO escrito: pagina=32 tabla=1 fila=1 referencia=GP680158-100-100-19 -> paginas=32 estado=exact_unique redact=(479.18, 591.51, 532.57, 599.72) text_pos=(503.65, 597.92) font_size=4.00
+2026-05-13 16:19:04,915 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,918 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,923 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,926 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,931 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,937 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,941 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,946 | INFO | Campo escrito: sheet_no valor='32' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,950 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,950 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=33/88 formato=A4_PORTRAIT
+2026-05-13 16:19:04,956 | INFO | NUMERO PLANO escrito: pagina=33 tabla=1 fila=1 referencia=GP680158-100-100-20 -> paginas=33 estado=exact_unique redact=(480.66, 591.19, 534.06, 599.41) text_pos=(505.13, 597.61) font_size=4.00
+2026-05-13 16:19:04,960 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:04,964 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:04,969 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:04,972 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:04,979 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:04,983 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:04,987 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:04,991 | INFO | Campo escrito: sheet_no valor='33' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:04,993 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:04,993 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=34/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,003 | INFO | NUMERO PLANO escrito: pagina=34 tabla=1 fila=1 referencia=GP680158-100-100-21 -> paginas=34 estado=exact_unique redact=(480.32, 591.27, 533.72, 599.49) text_pos=(504.8, 597.69) font_size=4.00
+2026-05-13 16:19:05,007 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,010 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,017 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,021 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,025 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,030 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,037 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,040 | INFO | Campo escrito: sheet_no valor='34' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,048 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,063 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=35/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,071 | INFO | NUMERO PLANO escrito: pagina=35 tabla=1 fila=1 referencia=GP680158-100-100-22 -> paginas=35 estado=exact_unique redact=(480.3, 590.66, 533.7, 598.87) text_pos=(504.77, 597.07) font_size=4.00
+2026-05-13 16:19:05,078 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,084 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,094 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,098 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,104 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,108 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,113 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,118 | INFO | Campo escrito: sheet_no valor='35' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,121 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,121 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=36/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:05,129 | INFO | NUMERO PLANO escrito: pagina=36 tabla=1 fila=1 referencia=GP680158-100-100-23 -> paginas=36 estado=exact_unique redact=(1075.67, 578.98, 1129.07, 587.2) text_pos=(1100.15, 585.4) font_size=4.00
+2026-05-13 16:19:05,132 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,143 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,145 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:05,156 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:05,162 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:05,169 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:05,175 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:05,182 | INFO | Campo escrito: sheet_no valor='36' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:05,184 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:05,184 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=37/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,195 | INFO | NUMERO PLANO escrito: pagina=37 tabla=1 fila=1 referencia=GP680158-100-100-24 -> paginas=37 estado=exact_unique redact=(480.4, 590.95, 533.8, 599.16) text_pos=(504.88, 597.36) font_size=4.00
+2026-05-13 16:19:05,196 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,196 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,207 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,213 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,217 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,221 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,225 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,229 | INFO | Campo escrito: sheet_no valor='37' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,233 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,234 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=38/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,239 | INFO | NUMERO PLANO escrito: pagina=38 tabla=1 fila=1 referencia=GP680158-100-100-25 -> paginas=38 estado=exact_unique redact=(479.75, 591.77, 533.15, 599.98) text_pos=(504.23, 598.18) font_size=4.00
+2026-05-13 16:19:05,243 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,247 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,251 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,255 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,259 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,260 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,268 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,272 | INFO | Campo escrito: sheet_no valor='38' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,276 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,277 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=39/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,281 | INFO | NUMERO PLANO escrito: pagina=39 tabla=1 fila=1 referencia=GP680158-100-100-26 -> paginas=39 estado=exact_unique redact=(479.74, 590.42, 533.14, 598.63) text_pos=(504.22, 596.83) font_size=4.00
+2026-05-13 16:19:05,286 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,289 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,293 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,298 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,302 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,304 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,309 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,313 | INFO | Campo escrito: sheet_no valor='39' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,317 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,317 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=40/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,322 | INFO | NUMERO PLANO escrito: pagina=40 tabla=1 fila=1 referencia=GP680158-100-100-27 -> paginas=40 estado=exact_unique redact=(480.32, 590.18, 533.72, 598.4) text_pos=(504.8, 596.6) font_size=4.00
+2026-05-13 16:19:05,328 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,332 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,339 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,344 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,350 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,355 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,360 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,365 | INFO | Campo escrito: sheet_no valor='40' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,369 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,369 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=41/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,375 | INFO | NUMERO PLANO escrito: pagina=41 tabla=1 fila=1 referencia=GP680158-100-100-28 -> paginas=41 estado=exact_unique redact=(479.78, 591.31, 533.18, 599.53) text_pos=(504.26, 597.73) font_size=4.00
+2026-05-13 16:19:05,380 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,384 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,386 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,392 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,397 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,403 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,408 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,413 | INFO | Campo escrito: sheet_no valor='41' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,417 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,418 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=42/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,419 | INFO | NUMERO PLANO escrito: pagina=42 tabla=1 fila=1 referencia=GP680158-100-100-29 -> paginas=42 estado=exact_unique redact=(480.0, 591.01, 533.39, 599.23) text_pos=(504.47, 597.43) font_size=4.00
+2026-05-13 16:19:05,426 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,430 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,436 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,439 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,445 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,449 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,451 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,456 | INFO | Campo escrito: sheet_no valor='42' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,460 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,460 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=43/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,466 | INFO | NUMERO PLANO escrito: pagina=43 tabla=1 fila=1 referencia=GP680158-100-100-30 -> paginas=43 estado=exact_unique redact=(480.33, 591.25, 533.73, 599.46) text_pos=(504.81, 597.66) font_size=4.00
+2026-05-13 16:19:05,470 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,473 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,478 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,482 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,483 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,490 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,494 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,500 | INFO | Campo escrito: sheet_no valor='43' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,504 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,504 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=44/88 formato=A4_PORTRAIT
+2026-05-13 16:19:05,512 | INFO | NUMERO PLANO escrito: pagina=44 tabla=1 fila=1 referencia=GP680158-100-100-31 -> paginas=44 estado=exact_unique redact=(480.01, 591.44, 533.41, 599.65) text_pos=(504.49, 597.85) font_size=4.00
+2026-05-13 16:19:05,516 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,520 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,525 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:05,530 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:05,534 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:05,539 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:05,544 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:05,544 | INFO | Campo escrito: sheet_no valor='44' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:05,553 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:05,553 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=45/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:05,595 | INFO | NUMERO PLANO escrito: pagina=45 tabla=1 fila=1 referencia=GP680158-200-100 -> paginas=46, 47, 48, 49 estado=exact_multiple redact=(1075.54, 45.79, 1128.94, 54.0) text_pos=(1090.01, 52.2) font_size=4.00
+2026-05-13 16:19:05,637 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:05,676 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:05,711 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:05,745 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:05,781 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:05,827 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:05,864 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:05,897 | INFO | Campo escrito: sheet_no valor='45' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:05,942 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:05,943 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=46/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:05,968 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=1 referencia=GP680158-100-100-28 -> paginas=41 estado=exact_unique redact=(727.3, 47.14, 780.69, 55.35) text_pos=(751.77, 53.55) font_size=4.00
+2026-05-13 16:19:05,982 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=2 referencia=GP680158-200-100-01 -> paginas=50 estado=exact_unique redact=(727.3, 62.54, 780.69, 70.75) text_pos=(751.77, 68.95) font_size=4.00
+2026-05-13 16:19:06,013 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=3 referencia=GP680158-200-100-02 -> paginas=51 estado=exact_unique redact=(727.3, 77.94, 780.69, 86.15) text_pos=(751.77, 84.35) font_size=4.00
+2026-05-13 16:19:06,036 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=4 referencia=GP680158-200-100-03 -> paginas=52 estado=exact_unique redact=(727.3, 93.34, 780.69, 101.55) text_pos=(751.77, 99.75) font_size=4.00
+2026-05-13 16:19:06,059 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=5 referencia=GP680158-200-100-04 -> paginas=53 estado=exact_unique redact=(727.3, 108.74, 780.69, 116.95) text_pos=(751.77, 115.15) font_size=4.00
+2026-05-13 16:19:06,083 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=6 referencia=GP680158-200-100-05 -> paginas=54 estado=exact_unique redact=(727.3, 124.13, 780.69, 132.35) text_pos=(751.77, 130.55) font_size=4.00
+2026-05-13 16:19:06,109 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=7 referencia=GP680158-200-100-07 -> paginas=56 estado=exact_unique redact=(727.3, 139.53, 780.69, 147.75) text_pos=(751.77, 145.95) font_size=4.00
+2026-05-13 16:19:06,134 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=8 referencia=GP680158-200-100-08 -> paginas=57 estado=exact_unique redact=(727.3, 154.93, 780.69, 163.14) text_pos=(751.77, 161.34) font_size=4.00
+2026-05-13 16:19:06,152 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=9 referencia=GP680158-200-100-09 -> paginas=58 estado=exact_unique redact=(727.3, 170.33, 780.69, 178.54) text_pos=(751.77, 176.74) font_size=4.00
+2026-05-13 16:19:06,182 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=10 referencia=GP680158-200-100-10 -> paginas=59 estado=exact_unique redact=(727.3, 185.73, 780.69, 193.94) text_pos=(751.77, 192.14) font_size=4.00
+2026-05-13 16:19:06,203 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=11 referencia=GP680158-200-100-11 -> paginas=60 estado=exact_unique redact=(727.3, 201.13, 780.69, 209.34) text_pos=(751.77, 207.54) font_size=4.00
+2026-05-13 16:19:06,229 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=12 referencia=GP680158-200-100-12 -> paginas=61 estado=exact_unique redact=(727.3, 216.53, 780.69, 224.74) text_pos=(751.77, 222.94) font_size=4.00
+2026-05-13 16:19:06,250 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=13 referencia=GP680158-200-100-13 -> paginas=62 estado=exact_unique redact=(727.3, 231.93, 780.69, 240.14) text_pos=(751.77, 238.34) font_size=4.00
+2026-05-13 16:19:06,271 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=14 referencia=GP680158-200-100-14 -> paginas=63 estado=exact_unique redact=(727.3, 247.32, 780.69, 255.54) text_pos=(751.77, 253.74) font_size=4.00
+2026-05-13 16:19:06,295 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=15 referencia=GP680158-200-100-15 -> paginas=64 estado=exact_unique redact=(727.3, 262.72, 780.69, 270.94) text_pos=(751.77, 269.14) font_size=4.00
+2026-05-13 16:19:06,317 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=16 referencia=GP680158-200-100-17 -> paginas=66 estado=exact_unique redact=(727.3, 278.12, 780.69, 286.33) text_pos=(751.77, 284.53) font_size=4.00
+2026-05-13 16:19:06,336 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=17 referencia=GP680158-200-100-19 -> paginas=68 estado=exact_unique redact=(727.3, 293.15, 780.69, 301.37) text_pos=(751.77, 299.57) font_size=4.00
+2026-05-13 16:19:06,364 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=18 referencia=GP680158-200-100-20 -> paginas=69 estado=exact_unique redact=(727.3, 308.92, 780.69, 317.13) text_pos=(751.77, 315.33) font_size=4.00
+2026-05-13 16:19:06,387 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=19 referencia=GP680158-200-100-21 -> paginas=70 estado=exact_unique redact=(727.3, 324.32, 780.69, 332.53) text_pos=(751.77, 330.73) font_size=4.00
+2026-05-13 16:19:06,413 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=20 referencia=GP680158-200-100-22 -> paginas=71 estado=exact_unique redact=(727.3, 339.72, 780.69, 347.93) text_pos=(751.77, 346.13) font_size=4.00
+2026-05-13 16:19:06,437 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=21 referencia=GP680158-200-100-23 -> paginas=72 estado=exact_unique redact=(727.3, 355.12, 780.69, 363.33) text_pos=(751.77, 361.53) font_size=4.00
+2026-05-13 16:19:06,462 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=22 referencia=GP680158-200-100-24 -> paginas=73 estado=exact_unique redact=(727.3, 370.15, 780.69, 378.36) text_pos=(751.77, 376.56) font_size=4.00
+2026-05-13 16:19:06,485 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=23 referencia=GP680158-200-100-25 -> paginas=74 estado=exact_unique redact=(727.3, 385.91, 780.69, 394.12) text_pos=(751.77, 392.32) font_size=4.00
+2026-05-13 16:19:06,511 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=24 referencia=GP680158-200-100-26 -> paginas=75 estado=exact_unique redact=(727.3, 401.31, 780.69, 409.52) text_pos=(751.77, 407.72) font_size=4.00
+2026-05-13 16:19:06,536 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=25 referencia=GP680158-200-100-27 -> paginas=76 estado=exact_unique redact=(727.3, 416.71, 780.69, 424.92) text_pos=(751.77, 423.12) font_size=4.00
+2026-05-13 16:19:06,560 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=26 referencia=GP680158-200-100-28 -> paginas=77 estado=exact_unique redact=(727.3, 432.11, 780.69, 440.32) text_pos=(751.77, 438.52) font_size=4.00
+2026-05-13 16:19:06,584 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=27 referencia=GP680158-200-100-29 -> paginas=78 estado=exact_unique redact=(727.3, 447.51, 780.69, 455.72) text_pos=(751.77, 453.92) font_size=4.00
+2026-05-13 16:19:06,602 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=28 referencia=GP680158-200-100-30 -> paginas=79 estado=exact_unique redact=(727.3, 462.91, 780.69, 471.12) text_pos=(751.77, 469.32) font_size=4.00
+2026-05-13 16:19:06,629 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=29 referencia=GP680158-200-100-06 -> paginas=55 estado=exact_unique redact=(727.3, 478.31, 780.69, 486.52) text_pos=(751.77, 484.72) font_size=4.00
+2026-05-13 16:19:06,652 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=30 referencia=GP680158-100-100-24 -> paginas=37 estado=exact_unique redact=(727.3, 493.7, 780.69, 501.92) text_pos=(751.77, 500.12) font_size=4.00
+2026-05-13 16:19:06,677 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=31 referencia=GP680158-100-100-26 -> paginas=39 estado=exact_unique redact=(727.3, 509.1, 780.69, 517.31) text_pos=(751.77, 515.51) font_size=4.00
+2026-05-13 16:19:06,700 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=32 referencia=GP680158-100-100-27 -> paginas=40 estado=exact_unique redact=(727.3, 524.5, 780.69, 532.71) text_pos=(751.77, 530.91) font_size=4.00
+2026-05-13 16:19:06,720 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=33 referencia=GP680158-100-100-02 -> paginas=15 estado=exact_unique redact=(727.3, 539.9, 780.69, 548.11) text_pos=(751.77, 546.31) font_size=4.00
+2026-05-13 16:19:06,751 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=34 referencia=GP680158-100-100-17 -> paginas=30 estado=exact_unique redact=(727.3, 555.3, 780.69, 563.51) text_pos=(751.77, 561.71) font_size=4.00
+2026-05-13 16:19:06,771 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=35 referencia=GP680158-100-100-21 -> paginas=34 estado=exact_unique redact=(727.3, 570.7, 780.69, 578.91) text_pos=(751.77, 577.11) font_size=4.00
+2026-05-13 16:19:06,800 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=36 referencia=GP680158-100-100-18 -> paginas=31 estado=exact_unique redact=(727.3, 586.1, 780.69, 594.31) text_pos=(751.77, 592.51) font_size=4.00
+2026-05-13 16:19:06,818 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=37 referencia=GP680158-100-100-06 -> paginas=19 estado=exact_unique redact=(727.3, 601.49, 780.69, 609.71) text_pos=(751.77, 607.91) font_size=4.00
+2026-05-13 16:19:06,848 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=38 referencia=GP680158-100-100-14 -> paginas=27 estado=exact_unique redact=(727.3, 616.89, 780.69, 625.11) text_pos=(751.77, 623.31) font_size=4.00
+2026-05-13 16:19:06,870 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=40 referencia=GP680158-100-100-25 -> paginas=38 estado=exact_unique redact=(727.3, 647.69, 780.69, 655.9) text_pos=(751.77, 654.1) font_size=4.00
+2026-05-13 16:19:06,895 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=41 referencia=GP680158-100-100-29 -> paginas=42 estado=exact_unique redact=(727.3, 663.09, 780.69, 671.3) text_pos=(751.77, 669.5) font_size=4.00
+2026-05-13 16:19:06,921 | INFO | NUMERO PLANO escrito: pagina=46 tabla=1 fila=42 referencia=GP680158-100-100-31 -> paginas=44 estado=exact_unique redact=(727.3, 678.49, 780.69, 686.7) text_pos=(751.77, 684.9) font_size=4.00
+2026-05-13 16:19:06,945 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:06,969 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:06,994 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,019 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,042 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,064 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,086 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,103 | INFO | Campo escrito: sheet_no valor='46' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,135 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,135 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=47/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,160 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,183 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,203 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,227 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,250 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,270 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,294 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,317 | INFO | Campo escrito: sheet_no valor='47' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,336 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,336 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=48/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,352 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,362 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,394 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,411 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,427 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,444 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,462 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,479 | INFO | Campo escrito: sheet_no valor='48' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,495 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,496 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=49/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,501 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,505 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,510 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,515 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,518 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,523 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,527 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,533 | INFO | Campo escrito: sheet_no valor='49' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,539 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,540 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=50/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,547 | INFO | NUMERO PLANO escrito: pagina=50 tabla=1 fila=1 referencia=GP680158-200-100-01 -> paginas=50 estado=exact_unique redact=(1075.59, 578.87, 1128.98, 587.08) text_pos=(1100.06, 585.28) font_size=4.00
+2026-05-13 16:19:07,552 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,558 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,564 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,569 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,572 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,580 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,583 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,590 | INFO | Campo escrito: sheet_no valor='50' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,596 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,596 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=51/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,603 | INFO | NUMERO PLANO escrito: pagina=51 tabla=1 fila=1 referencia=GP680158-200-100-02 -> paginas=51 estado=exact_unique redact=(1076.01, 578.15, 1129.41, 586.36) text_pos=(1100.48, 584.56) font_size=4.00
+2026-05-13 16:19:07,608 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,613 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,618 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,622 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,628 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,634 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,639 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,644 | INFO | Campo escrito: sheet_no valor='51' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,650 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,650 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=52/88 formato=A4_PORTRAIT
+2026-05-13 16:19:07,654 | INFO | NUMERO PLANO escrito: pagina=52 tabla=1 fila=1 referencia=GP680158-200-100-03 -> paginas=52 estado=exact_unique redact=(480.92, 590.82, 534.32, 599.03) text_pos=(505.39, 597.23) font_size=4.00
+2026-05-13 16:19:07,660 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,664 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,670 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:07,674 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:07,679 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:07,682 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:07,688 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:07,691 | INFO | Campo escrito: sheet_no valor='52' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:07,696 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:07,696 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=53/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,702 | INFO | NUMERO PLANO escrito: pagina=53 tabla=1 fila=1 referencia=GP680158-200-100-04 -> paginas=53 estado=exact_unique redact=(1075.75, 579.29, 1129.15, 587.51) text_pos=(1100.22, 585.71) font_size=4.00
+2026-05-13 16:19:07,715 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,721 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,733 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,742 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,779 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,791 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,798 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,801 | INFO | Campo escrito: sheet_no valor='53' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,816 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,816 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=54/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,820 | INFO | NUMERO PLANO escrito: pagina=54 tabla=1 fila=1 referencia=GP680158-200-100-05 -> paginas=54 estado=exact_unique redact=(1075.68, 579.37, 1129.08, 587.59) text_pos=(1100.16, 585.79) font_size=4.00
+2026-05-13 16:19:07,832 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,837 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,843 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,848 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,856 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,861 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,869 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,876 | INFO | Campo escrito: sheet_no valor='54' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,882 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,882 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=55/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:07,898 | INFO | NUMERO PLANO escrito: pagina=55 tabla=1 fila=1 referencia=GP680158-200-100-06 -> paginas=55 estado=exact_unique redact=(1076.12, 578.9, 1129.51, 587.12) text_pos=(1100.59, 585.32) font_size=4.00
+2026-05-13 16:19:07,904 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:07,918 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:07,933 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:07,938 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:07,954 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:07,966 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:07,971 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:07,983 | INFO | Campo escrito: sheet_no valor='55' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:07,998 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:07,998 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=56/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:08,002 | INFO | NUMERO PLANO escrito: pagina=56 tabla=1 fila=1 referencia=GP680158-200-100-07 -> paginas=56 estado=exact_unique redact=(1075.66, 578.75, 1129.05, 586.96) text_pos=(1100.13, 585.16) font_size=4.00
+2026-05-13 16:19:08,015 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,015 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,028 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:08,040 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:08,048 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:08,055 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:08,065 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:08,070 | INFO | Campo escrito: sheet_no valor='56' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:08,081 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:08,081 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=57/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,084 | INFO | NUMERO PLANO escrito: pagina=57 tabla=1 fila=1 referencia=GP680158-200-100-08 -> paginas=57 estado=exact_unique redact=(480.6, 591.21, 533.99, 599.42) text_pos=(505.07, 597.62) font_size=4.00
+2026-05-13 16:19:08,092 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,095 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,101 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,106 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,107 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,115 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,118 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,123 | INFO | Campo escrito: sheet_no valor='57' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,128 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,128 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=58/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,133 | INFO | NUMERO PLANO escrito: pagina=58 tabla=1 fila=1 referencia=GP680158-200-100-09 -> paginas=58 estado=exact_unique redact=(479.87, 590.67, 533.27, 598.88) text_pos=(504.35, 597.08) font_size=4.00
+2026-05-13 16:19:08,137 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,140 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,147 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,150 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,155 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,159 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,164 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,169 | INFO | Campo escrito: sheet_no valor='58' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,171 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,171 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=59/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,178 | INFO | NUMERO PLANO escrito: pagina=59 tabla=1 fila=1 referencia=GP680158-200-100-10 -> paginas=59 estado=exact_unique redact=(480.23, 591.19, 533.63, 599.4) text_pos=(504.7, 597.6) font_size=4.00
+2026-05-13 16:19:08,182 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,187 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,191 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,195 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,197 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,204 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,209 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,214 | INFO | Campo escrito: sheet_no valor='59' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,218 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,218 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=60/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,221 | INFO | NUMERO PLANO escrito: pagina=60 tabla=1 fila=1 referencia=GP680158-200-100-11 -> paginas=60 estado=exact_unique redact=(479.99, 590.99, 533.39, 599.21) text_pos=(504.47, 597.41) font_size=4.00
+2026-05-13 16:19:08,228 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,232 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,236 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,241 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,247 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,251 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,256 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,260 | INFO | Campo escrito: sheet_no valor='60' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,266 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,267 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=61/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,271 | INFO | NUMERO PLANO escrito: pagina=61 tabla=1 fila=1 referencia=GP680158-200-100-12 -> paginas=61 estado=exact_unique redact=(479.96, 591.31, 533.36, 599.52) text_pos=(504.43, 597.72) font_size=4.00
+2026-05-13 16:19:08,276 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,281 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,285 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,289 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,291 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,298 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,302 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,304 | INFO | Campo escrito: sheet_no valor='61' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,310 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,311 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=62/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,312 | INFO | NUMERO PLANO escrito: pagina=62 tabla=1 fila=1 referencia=GP680158-200-100-13 -> paginas=62 estado=exact_unique redact=(480.16, 590.92, 533.56, 599.13) text_pos=(504.63, 597.33) font_size=4.00
+2026-05-13 16:19:08,322 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,326 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,330 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,334 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,336 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,343 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,349 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,353 | INFO | Campo escrito: sheet_no valor='62' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,357 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,357 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=63/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,362 | INFO | NUMERO PLANO escrito: pagina=63 tabla=1 fila=1 referencia=GP680158-200-100-14 -> paginas=63 estado=exact_unique redact=(479.89, 591.06, 533.29, 599.27) text_pos=(504.37, 597.47) font_size=4.00
+2026-05-13 16:19:08,367 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,370 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,373 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,380 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,385 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,387 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,392 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,398 | INFO | Campo escrito: sheet_no valor='63' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,401 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,402 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=64/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,406 | INFO | NUMERO PLANO escrito: pagina=64 tabla=1 fila=1 referencia=GP680158-200-100-15 -> paginas=64 estado=exact_unique redact=(480.49, 591.34, 533.89, 599.55) text_pos=(504.97, 597.75) font_size=4.00
+2026-05-13 16:19:08,411 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,415 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,420 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,423 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,429 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,434 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,437 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,442 | INFO | Campo escrito: sheet_no valor='64' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,445 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,448 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=65/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,452 | INFO | NUMERO PLANO escrito: pagina=65 tabla=1 fila=1 referencia=GP680158-200-100-16 -> paginas=65 estado=exact_unique redact=(480.29, 591.61, 533.69, 599.82) text_pos=(504.76, 598.02) font_size=4.00
+2026-05-13 16:19:08,457 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,462 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,468 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,470 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,477 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,481 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,489 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,491 | INFO | Campo escrito: sheet_no valor='65' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,501 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,502 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=66/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:08,517 | INFO | NUMERO PLANO escrito: pagina=66 tabla=1 fila=1 referencia=GP680158-200-100-17 -> paginas=66 estado=exact_unique redact=(1075.37, 579.09, 1128.76, 587.3) text_pos=(1099.84, 585.5) font_size=4.00
+2026-05-13 16:19:08,524 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,532 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,535 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:08,545 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:08,554 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:08,564 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:08,567 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:08,579 | INFO | Campo escrito: sheet_no valor='66' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:08,585 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:08,585 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=67/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,593 | INFO | NUMERO PLANO escrito: pagina=67 tabla=1 fila=1 referencia=GP680158-200-100-18 -> paginas=67 estado=exact_unique redact=(480.61, 591.16, 534.0, 599.37) text_pos=(505.08, 597.57) font_size=4.00
+2026-05-13 16:19:08,600 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,601 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,611 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,612 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,622 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,624 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,634 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,638 | INFO | Campo escrito: sheet_no valor='67' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,645 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,645 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=68/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,652 | INFO | NUMERO PLANO escrito: pagina=68 tabla=1 fila=1 referencia=GP680158-200-100-19 -> paginas=68 estado=exact_unique redact=(480.51, 589.98, 533.9, 598.19) text_pos=(504.98, 596.39) font_size=4.00
+2026-05-13 16:19:08,658 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,663 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,669 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,673 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,680 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,682 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,691 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,698 | INFO | Campo escrito: sheet_no valor='68' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,704 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,705 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=69/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,707 | INFO | NUMERO PLANO escrito: pagina=69 tabla=1 fila=1 referencia=GP680158-200-100-20 -> paginas=69 estado=exact_unique redact=(480.46, 590.93, 533.86, 599.14) text_pos=(504.94, 597.34) font_size=4.00
+2026-05-13 16:19:08,714 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,717 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,721 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,726 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,732 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,736 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,740 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,745 | INFO | Campo escrito: sheet_no valor='69' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,747 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,747 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=70/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,754 | INFO | NUMERO PLANO escrito: pagina=70 tabla=1 fila=1 referencia=GP680158-200-100-21 -> paginas=70 estado=exact_unique redact=(479.66, 591.31, 533.06, 599.52) text_pos=(504.14, 597.72) font_size=4.00
+2026-05-13 16:19:08,758 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,764 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,768 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,773 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,775 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,782 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,785 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,788 | INFO | Campo escrito: sheet_no valor='70' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,795 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,796 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=71/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,799 | INFO | NUMERO PLANO escrito: pagina=71 tabla=1 fila=1 referencia=GP680158-200-100-22 -> paginas=71 estado=exact_unique redact=(480.75, 591.2, 534.14, 599.42) text_pos=(505.22, 597.62) font_size=4.00
+2026-05-13 16:19:08,805 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,809 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,812 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,819 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,822 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,826 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,831 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,836 | INFO | Campo escrito: sheet_no valor='71' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,839 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,841 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=72/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,845 | INFO | NUMERO PLANO escrito: pagina=72 tabla=1 fila=1 referencia=GP680158-200-100-23 -> paginas=72 estado=exact_unique redact=(481.28, 591.59, 534.68, 599.8) text_pos=(505.75, 598.0) font_size=4.00
+2026-05-13 16:19:08,850 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,854 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,856 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,862 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,867 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,870 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,873 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,878 | INFO | Campo escrito: sheet_no valor='72' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,883 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,883 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=73/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,888 | INFO | NUMERO PLANO escrito: pagina=73 tabla=1 fila=1 referencia=GP680158-200-100-24 -> paginas=73 estado=exact_unique redact=(480.64, 591.19, 534.04, 599.41) text_pos=(505.12, 597.61) font_size=4.00
+2026-05-13 16:19:08,893 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,898 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,902 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,906 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,908 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,916 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,920 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,921 | INFO | Campo escrito: sheet_no valor='73' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,928 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,928 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=74/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,933 | INFO | NUMERO PLANO escrito: pagina=74 tabla=1 fila=1 referencia=GP680158-200-100-25 -> paginas=74 estado=exact_unique redact=(479.83, 591.73, 533.23, 599.94) text_pos=(504.31, 598.14) font_size=4.00
+2026-05-13 16:19:08,939 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,942 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,947 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,952 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:08,954 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:08,959 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:08,964 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:08,970 | INFO | Campo escrito: sheet_no valor='74' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:08,973 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:08,973 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=75/88 formato=A4_PORTRAIT
+2026-05-13 16:19:08,979 | INFO | NUMERO PLANO escrito: pagina=75 tabla=1 fila=1 referencia=GP680158-200-100-26 -> paginas=75 estado=exact_unique redact=(479.32, 591.94, 532.71, 600.15) text_pos=(503.79, 598.35) font_size=4.00
+2026-05-13 16:19:08,984 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:08,989 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:08,993 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:08,998 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,002 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,004 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,011 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,014 | INFO | Campo escrito: sheet_no valor='75' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,019 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,020 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=76/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,024 | INFO | NUMERO PLANO escrito: pagina=76 tabla=1 fila=1 referencia=GP680158-200-100-27 -> paginas=76 estado=exact_unique redact=(479.71, 590.17, 533.11, 598.39) text_pos=(504.18, 596.59) font_size=4.00
+2026-05-13 16:19:09,031 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,034 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,043 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,049 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,054 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,057 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,066 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,068 | INFO | Campo escrito: sheet_no valor='76' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,077 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,077 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=77/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,083 | INFO | NUMERO PLANO escrito: pagina=77 tabla=1 fila=1 referencia=GP680158-200-100-28 -> paginas=77 estado=exact_unique redact=(479.7, 591.24, 533.09, 599.45) text_pos=(504.17, 597.65) font_size=4.00
+2026-05-13 16:19:09,087 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,090 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,096 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,101 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,106 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,109 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,115 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,118 | INFO | Campo escrito: sheet_no valor='77' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,118 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,118 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=78/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,129 | INFO | NUMERO PLANO escrito: pagina=78 tabla=1 fila=1 referencia=GP680158-200-100-29 -> paginas=78 estado=exact_unique redact=(480.05, 591.08, 533.45, 599.29) text_pos=(504.53, 597.49) font_size=4.00
+2026-05-13 16:19:09,138 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,143 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,152 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,155 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,166 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,171 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,179 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,181 | INFO | Campo escrito: sheet_no valor='78' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,193 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,194 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=79/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,196 | INFO | NUMERO PLANO escrito: pagina=79 tabla=1 fila=1 referencia=GP680158-200-100-30 -> paginas=79 estado=exact_unique redact=(480.27, 591.2, 533.67, 599.42) text_pos=(504.75, 597.62) font_size=4.00
+2026-05-13 16:19:09,207 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,213 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,220 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,225 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,233 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,236 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,246 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,246 | INFO | Campo escrito: sheet_no valor='79' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,258 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,259 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=80/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:09,265 | INFO | NUMERO PLANO escrito: pagina=80 tabla=1 fila=1 referencia=GP680159-100 -> paginas=82 estado=exact_unique redact=(1075.54, 45.79, 1128.94, 54.0) text_pos=(1100.02, 52.2) font_size=4.00
+2026-05-13 16:19:09,285 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,301 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,315 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:09,323 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:09,339 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:09,354 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:09,365 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:09,383 | INFO | Campo escrito: sheet_no valor='80' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:09,396 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:09,397 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=81/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,403 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,408 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,413 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,418 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,423 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,423 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,432 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,436 | INFO | Campo escrito: sheet_no valor='81' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,442 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,442 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=82/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:09,448 | INFO | NUMERO PLANO escrito: pagina=82 tabla=1 fila=1 referencia=GP680159-100-100 -> paginas=84, 85 estado=exact_multiple redact=(1075.54, 45.82, 1128.94, 54.03) text_pos=(1096.68, 52.23) font_size=4.00
+2026-05-13 16:19:09,459 | INFO | NUMERO PLANO escrito: pagina=82 tabla=1 fila=2 referencia=GP680159-100-01 -> paginas=83 estado=exact_unique redact=(1075.54, 61.25, 1128.94, 69.47) text_pos=(1100.02, 67.67) font_size=4.00
+2026-05-13 16:19:09,464 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,479 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,482 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:09,496 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:09,500 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:09,513 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:09,521 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:09,532 | INFO | Campo escrito: sheet_no valor='82' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:09,541 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:09,541 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=83/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,547 | INFO | NUMERO PLANO escrito: pagina=83 tabla=1 fila=1 referencia=GP680159-100-01 -> paginas=83 estado=exact_unique redact=(480.3, 591.25, 533.69, 599.46) text_pos=(504.77, 597.66) font_size=4.00
+2026-05-13 16:19:09,554 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,558 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,565 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,570 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,576 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,583 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,588 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,594 | INFO | Campo escrito: sheet_no valor='83' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,599 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,599 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=84/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:09,603 | INFO | NUMERO PLANO escrito: pagina=84 tabla=1 fila=1 referencia=GP680159-100-100-01 -> paginas=86 estado=exact_unique redact=(1075.54, 45.79, 1128.94, 54.0) text_pos=(1100.02, 52.2) font_size=4.00
+2026-05-13 16:19:09,619 | INFO | NUMERO PLANO escrito: pagina=84 tabla=1 fila=2 referencia=GP680159-100-100-02 -> paginas=87 estado=exact_unique redact=(1075.54, 61.19, 1128.94, 69.4) text_pos=(1100.02, 67.6) font_size=4.00
+2026-05-13 16:19:09,619 | INFO | NUMERO PLANO escrito: pagina=84 tabla=1 fila=3 referencia=GP680160-100-100-03 -> paginas=88 estado=exact_unique redact=(1075.54, 76.59, 1128.94, 84.8) text_pos=(1100.02, 83.0) font_size=4.00
+2026-05-13 16:19:09,637 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,647 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,655 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:09,663 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:09,671 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:09,686 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:09,703 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:09,720 | INFO | Campo escrito: sheet_no valor='84' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:09,734 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:09,735 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=85/88 formato=A3_LANDSCAPE
+2026-05-13 16:19:09,739 | INFO | Campo escrito: title    valor='PRUEBA' redact=(928.0, 675.5, 1161.0, 694.0) text_pos=(930.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,743 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(928.0, 704.0, 1161.0, 722.0) text_pos=(930.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,747 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(708.0, 757.2, 758.5, 769.6) text_pos=(708.5, 768.0) font_size=8.00
+2026-05-13 16:19:09,752 | INFO | Campo escrito: verified valor='PRUEBA' redact=(708.0, 771.4, 758.5, 783.7) text_pos=(708.5, 782.2) font_size=8.00
+2026-05-13 16:19:09,756 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(708.0, 785.6, 758.5, 797.8) text_pos=(708.5, 796.4) font_size=8.00
+2026-05-13 16:19:09,758 | INFO | Campo escrito: approved valor='PRUEBA' redact=(708.0, 799.8, 758.5, 812.0) text_pos=(708.5, 810.5) font_size=8.00
+2026-05-13 16:19:09,765 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(254.0, 112.7, 368.2, 128.4) text_pos=(297.71, 124.3) font_size=8.00
+2026-05-13 16:19:09,769 | INFO | Campo escrito: sheet_no valor='85' redact=(1104.5, 733.0, 1119.0, 745.9) text_pos=(1107.3, 741.9) font_size=8.00
+2026-05-13 16:19:09,771 | INFO | Campo escrito: sheet_total valor='88' redact=(1128.0, 733.0, 1144.0, 745.9) text_pos=(1131.55, 741.9) font_size=8.00
+2026-05-13 16:19:09,771 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=86/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,778 | INFO | NUMERO PLANO escrito: pagina=86 tabla=1 fila=1 referencia=GP680159-100-100-01 -> paginas=86 estado=exact_unique redact=(480.01, 591.44, 533.41, 599.65) text_pos=(504.49, 597.85) font_size=4.00
+2026-05-13 16:19:09,784 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,790 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,790 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,800 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,802 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,806 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,813 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,817 | INFO | Campo escrito: sheet_no valor='86' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,823 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,823 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=87/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,826 | INFO | NUMERO PLANO escrito: pagina=87 tabla=1 fila=1 referencia=GP680159-100-100-02 -> paginas=87 estado=exact_unique redact=(480.27, 590.93, 533.67, 599.14) text_pos=(504.75, 597.34) font_size=4.00
+2026-05-13 16:19:09,832 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,837 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,840 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,846 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,852 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,857 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,860 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,868 | INFO | Campo escrito: sheet_no valor='87' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,871 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:09,871 | INFO | Pagina procesada: archivo=GP676764_R0_COLECCION.pdf pagina=88/88 formato=A4_PORTRAIT
+2026-05-13 16:19:09,880 | INFO | NUMERO PLANO escrito: pagina=88 tabla=1 fila=1 referencia=GP680160-100-100-03 -> paginas=88 estado=exact_unique redact=(480.01, 591.44, 533.41, 599.65) text_pos=(504.49, 597.85) font_size=4.00
+2026-05-13 16:19:09,885 | INFO | Campo escrito: title    valor='PRUEBA' redact=(341.0, 676.0, 566.0, 694.0) text_pos=(343.0, 690.0) font_size=8.00
+2026-05-13 16:19:09,891 | INFO | Campo escrito: drawing_title valor='PRUEBA' redact=(341.0, 704.0, 566.0, 722.0) text_pos=(343.0, 718.0) font_size=8.00
+2026-05-13 16:19:09,898 | INFO | Campo escrito: drawn    valor='PRUEBA' redact=(126.0, 758.0, 177.0, 769.8) text_pos=(126.5, 768.3) font_size=8.00
+2026-05-13 16:19:09,905 | INFO | Campo escrito: verified valor='PRUEBA' redact=(126.0, 772.1, 177.0, 783.9) text_pos=(126.5, 782.4) font_size=8.00
+2026-05-13 16:19:09,907 | INFO | Campo escrito: reviewed valor='PRUEBA' redact=(126.0, 786.3, 177.0, 798.0) text_pos=(126.5, 796.5) font_size=8.00
+2026-05-13 16:19:09,916 | INFO | Campo escrito: approved valor='PRUEBA' redact=(126.0, 800.4, 177.0, 812.2) text_pos=(126.5, 810.7) font_size=8.00
+2026-05-13 16:19:09,922 | INFO | Campo escrito: control_plan_quality_specification valor='123456' redact=(240.4, 112.8, 356.6, 128.7) text_pos=(285.16, 124.8) font_size=8.00
+2026-05-13 16:19:09,927 | INFO | Campo escrito: sheet_no valor='88' redact=(523.5, 733.6, 538.0, 746.4) text_pos=(526.3, 742.5) font_size=8.00
+2026-05-13 16:19:09,933 | INFO | Campo escrito: sheet_total valor='88' redact=(546.8, 733.6, 562.0, 746.4) text_pos=(549.95, 742.5) font_size=8.00
+2026-05-13 16:19:10,903 | INFO | PDF modificado guardado: C:\Proyectos\Oficina Técnica\Modificación PDFs\eper_drawing_editor\output_pdfs\GP676764_R0_COLECCION.pdf
+2026-05-13 16:19:10,903 | INFO | Proceso terminado.

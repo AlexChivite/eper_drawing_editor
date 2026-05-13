@@ -10,8 +10,16 @@
 # verified
 # reviewed
 # approved
+# control_plan_quality_specification
 
 [fields]
+title = "PRUEBA"
+drawing_title = "PRUEBA"
+drawn = "PRUEBA"
+verified = "PRUEBA"
+reviewed = "PRUEBA"
+approved = "PRUEBA"
+control_plan_quality_specification = "123456"
 
 [options]
 # Color de NUMERO PLANO / DRW NUMBER: "red" o "green".

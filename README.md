@@ -50,6 +50,7 @@ drawn = "EPER"
 verified = "AHURTADO"
 reviewed = "JACAMPOS"
 approved = "CMF"
+control_plan_quality_specification = "1"
 
 [options]
 drw_number_color = "green"
@@ -61,6 +62,7 @@ update_parent_drawing_numbers = false
 
 - Si un campo aparece en `[fields]`, se elimina el texto antiguo y se escribe ese valor.
 - Si un campo no aparece, se deja intacto.
+- `control_plan_quality_specification` modifica la celda superior izquierda situada a la derecha de `PLAN DE CONTROL / CONTROL PLAN (QUALITY SPECIFICATION)` y se escribe siempre en verde.
 - `drw_number_color` controla solo el color de `NUMERO PLANO / DRW NUMBER`. Valores validos: `"red"` o `"green"`. Si se omite, se escribe en rojo. Los demas campos y la paginacion se escriben siempre en verde.
 - `update_sheet` actualiza la paginacion con la posicion real de cada pagina dentro del PDF.
 - `repair_a3_review_dates` activa la reparacion especifica de fechas A3.
