@@ -1,16 +1,28 @@
 .git
+.gitignore
 .venv
+venv
 __pycache__
+**/__pycache__
 *.pyc
 *.pyo
+*.pyd
 .pytest_cache
 .mypy_cache
 .streamlit
+.env
+.env.*
 
 input_pdfs
 output_pdfs
 planos
 *.pdf
 *.png
+*.log
+*.tmp
+*.temp
+*.bak
+~*
+.codex_tmp*
 
 Roadmap.txt

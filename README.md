@@ -56,12 +56,19 @@ Streamlit pide los campos y opciones en pantalla.
 
 ## Ejecutar con Docker
 
+Construir la imagen:
+
 ```powershell
-docker build -t pdf-tool .
-docker run -p 8501:8501 pdf-tool
+docker build -t pdf-tool:local .
 ```
 
-Despues abre `http://localhost:8501`.
+Ejecutar el contenedor:
+
+```powershell
+docker run --rm -p 8501:8501 pdf-tool:local
+```
+
+Despues prueba la app en `http://localhost:8501`.
 
 ## Azure Container Apps
 
@@ -73,6 +80,20 @@ esperado sera:
 2. Publicarla en un registry, por ejemplo Azure Container Registry.
 3. Crear o actualizar la Container App usando esa imagen.
 4. Configurar el puerto de entrada como `8501`.
+
+Etiquetar y subir a Azure Container Registry:
+
+```powershell
+az acr login --name <acr-name>
+docker tag pdf-tool:local <acr-name>.azurecr.io/pdf-tool:latest
+docker push <acr-name>.azurecr.io/pdf-tool:latest
+```
+
+En Azure Container Apps, usa la imagen:
+
+```text
+<acr-name>.azurecr.io/pdf-tool:latest
+```
 
 Los PDFs subidos desde Streamlit se procesan en directorios temporales y no se
 guardan permanentemente.
