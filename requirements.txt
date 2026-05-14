@@ -1,1 +1,2 @@
 PyMuPDF>=1.27.0
+streamlit>=1.37.0
