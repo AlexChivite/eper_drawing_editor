@@ -20,11 +20,13 @@ Dockerfile
 .dockerignore
 ```
 
-La logica de negocio esta en `src/pdf_tool/processor.py`. La CLI y Streamlit
-llaman a la misma funcion reutilizable:
+La logica de negocio esta en `src/pdf_tool/processor.py`. La CLI usa el TOML y
+Streamlit construye las opciones desde el formulario, sin leer `config.toml`.
+Ambos caminos llaman al mismo motor de procesado:
 
 ```python
 process_pdf(input_pdf: Path, output_pdf: Path, config_path: Path | None = None) -> None
+process_pdf_with_changes(input_pdf: Path, output_pdf: Path, fields: Mapping[str, str] | None = None, ...) -> None
 ```
 
 ## Ejecutar en local
@@ -49,7 +51,8 @@ Opciones utiles:
 .\.venv\Scripts\python.exe .\pdf_updater.py --parent-drawing-number-dry-run
 ```
 
-La configuracion por defecto esta en `config/config.toml`.
+La configuracion por defecto de la CLI esta en `config/config.toml`. La app
+Streamlit pide los campos y opciones en pantalla.
 
 ## Ejecutar con Docker
 

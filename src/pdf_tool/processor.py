@@ -6,6 +6,7 @@ import logging
 import os
 import re
 import tomllib
+from collections.abc import Mapping
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
@@ -45,6 +46,13 @@ WRITE_COLORS = {
     "green": GREEN,
     "red": RED,
 }
+BOOLEAN_CHANGE_OPTIONS = {
+    "update_sheet",
+    "repair_a3_review_dates",
+    "clean_revision_errors",
+    "update_parent_drawing_numbers",
+}
+ALLOWED_CHANGE_OPTIONS = BOOLEAN_CHANGE_OPTIONS | {"drw_number_color"}
 
 FONT_NAME = FONT
 
@@ -326,6 +334,17 @@ def load_change_config(config_path: Path) -> ChangeConfig:
     if not isinstance(options_raw, dict):
         raise ValueError("La seccion [options] debe ser una tabla TOML.")
 
+    return build_change_config(fields_raw, options_raw, config_path)
+
+
+def build_change_config(
+    fields_raw: Mapping[str, Any] | None = None,
+    options_raw: Mapping[str, Any] | None = None,
+    source_path: Path | None = None,
+) -> ChangeConfig:
+    fields_raw = fields_raw or {}
+    options_raw = options_raw or {}
+
     unknown_fields = set(fields_raw) - set(EDITABLE_TEXT_FIELDS)
     if unknown_fields:
         raise ValueError(
@@ -341,24 +360,17 @@ def load_change_config(config_path: Path) -> ChangeConfig:
             raise ValueError(f"El campo '{field_name}' debe tener un texto entre comillas.")
         fields[field_name] = value
 
-    boolean_options = {
-        "update_sheet",
-        "repair_a3_review_dates",
-        "clean_revision_errors",
-        "update_parent_drawing_numbers",
-    }
-    allowed_options = boolean_options | {"drw_number_color"}
-    unknown_options = set(options_raw) - allowed_options
+    unknown_options = set(options_raw) - ALLOWED_CHANGE_OPTIONS
     if unknown_options:
         raise ValueError(
             "Opciones no reconocidas en [options]: "
             + ", ".join(sorted(unknown_options))
             + ". Opciones validas: "
-            + ", ".join(sorted(allowed_options))
+            + ", ".join(sorted(ALLOWED_CHANGE_OPTIONS))
         )
 
     options: dict[str, bool] = {}
-    for option_name in boolean_options:
+    for option_name in BOOLEAN_CHANGE_OPTIONS:
         value = options_raw.get(option_name, False)
         if not isinstance(value, bool):
             raise ValueError(f"La opcion '{option_name}' debe ser true o false.")
@@ -379,7 +391,7 @@ def load_change_config(config_path: Path) -> ChangeConfig:
         raise ValueError("El archivo de cambios no pide ninguna modificacion.")
 
     return ChangeConfig(
-        path=config_path,
+        path=source_path or Path("runtime-options"),
         fields=fields,
         drw_number_color_name=drw_number_color_name,
         drw_number_color=drw_number_color,
@@ -1253,6 +1265,37 @@ def process_pdf(
     )
     if not processed:
         raise RuntimeError(f"No se proceso ninguna pagina de {input_pdf.name}.")
+
+
+def process_pdf_with_changes(
+    input_pdf: Path,
+    output_pdf: Path,
+    fields: Mapping[str, str] | None = None,
+    drw_number_color: str | None = None,
+    update_sheet: bool = False,
+    repair_a3_review_dates: bool = False,
+    clean_revision_errors: bool = False,
+    update_parent_drawing_numbers: bool = False,
+) -> None:
+    """Process one PDF with change options supplied in memory."""
+    options: dict[str, Any] = {
+        "update_sheet": update_sheet,
+        "repair_a3_review_dates": repair_a3_review_dates,
+        "clean_revision_errors": clean_revision_errors,
+        "update_parent_drawing_numbers": update_parent_drawing_numbers,
+    }
+    if drw_number_color is not None:
+        options["drw_number_color"] = drw_number_color
+
+    change_config = build_change_config(fields or {}, options)
+    processed = process_pdf_with_config(
+        Path(input_pdf),
+        Path(output_pdf),
+        dry_run=False,
+        change_config=change_config,
+    )
+    if not processed:
+        raise RuntimeError(f"No se proceso ninguna pagina de {Path(input_pdf).name}.")
 
 
 def process_pdf_with_config(
