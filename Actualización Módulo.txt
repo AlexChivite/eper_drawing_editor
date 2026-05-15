@@ -1,0 +1,156 @@
+ACTUALIZAR MÓDULO PDF TOOL EN AZURE
+==================================
+
+REQUISITOS PREVIOS
+------------------
+- Docker Desktop iniciado
+- Azure CLI instalado
+- Haber ejecutado previamente:
+    az login
+
+- Estar en la carpeta raíz del proyecto:
+    cd "C:\Proyectos\Oficina Técnica\Modificación PDFs\eper_drawing_editor"
+
+
+PASO 1 — MODIFICAR EL CÓDIGO
+----------------------------
+Realizar los cambios necesarios en:
+- processor.py
+- streamlit_app.py
+- config.toml
+- etc.
+
+
+PASO 2 — PROBAR LOCALMENTE (RECOMENDADO)
+----------------------------------------
+Ejecutar Streamlit:
+
+    streamlit run app/streamlit_app.py
+
+Abrir:
+
+    http://localhost:8501
+
+Comprobar:
+- subida de PDFs
+- descarga
+- logs
+- errores
+
+
+PASO 3 — CONSTRUIR NUEVA IMAGEN DOCKER
+--------------------------------------
+
+Cambiar el número de versión según corresponda.
+
+Ejemplo versión v2:
+
+    docker build -t pdf-tool:v2 .
+
+
+PASO 4 — ETIQUETAR IMAGEN PARA AZURE
+------------------------------------
+
+    docker tag pdf-tool:v2 acrpdftooldev.azurecr.io/pdf-tool:v2
+
+
+PASO 5 — LOGIN EN AZURE CONTAINER REGISTRY
+------------------------------------------
+
+    az acr login --name acrpdftooldev
+
+
+PASO 6 — SUBIR IMAGEN A AZURE
+-----------------------------
+
+    docker push acrpdftooldev.azurecr.io/pdf-tool:v2
+
+
+PASO 7 — ACTUALIZAR LA CONTAINER APP
+------------------------------------
+
+    az containerapp update ^
+      --name ca-pdf-tool-dev ^
+      --resource-group rg-pdf-tool-dev ^
+      --image acrpdftooldev.azurecr.io/pdf-tool:v2
+
+
+PASO 8 — COMPROBAR QUE LA APP FUNCIONA
+--------------------------------------
+
+Obtener URL:
+
+    az containerapp show ^
+      --name ca-pdf-tool-dev ^
+      --resource-group rg-pdf-tool-dev ^
+      --query properties.configuration.ingress.fqdn ^
+      --output tsv
+
+Abrir en navegador:
+
+    https://LA_URL
+
+
+PASO 9 — VER LOGS SI HAY ERRORES
+--------------------------------
+
+    az containerapp logs show ^
+      --name ca-pdf-tool-dev ^
+      --resource-group rg-pdf-tool-dev ^
+      --follow
+
+
+PASO 10 — ROLLBACK A UNA VERSIÓN ANTERIOR
+-----------------------------------------
+
+Ejemplo volver a v1:
+
+    az containerapp update ^
+      --name ca-pdf-tool-dev ^
+      --resource-group rg-pdf-tool-dev ^
+      --image acrpdftooldev.azurecr.io/pdf-tool:v1
+
+
+VERSIONADO RECOMENDADO
+----------------------
+
+Usar tags simples:
+- v1
+- v2
+- v3
+- etc.
+
+Evitar usar únicamente:
+- latest
+
+porque dificulta rollback y debugging.
+
+
+COMANDOS ÚTILES
+---------------
+
+Ver imágenes locales Docker:
+
+    docker images
+
+Ver repositorios en Azure Container Registry:
+
+    az acr repository list ^
+      --name acrpdftooldev ^
+      --output table
+
+Ver revisiones de la app:
+
+    az containerapp revision list ^
+      --name ca-pdf-tool-dev ^
+      --resource-group rg-pdf-tool-dev ^
+      --output table
+
+
+NOTAS IMPORTANTES
+-----------------
+- La URL de la aplicación NO cambia al actualizar versiones.
+- Los usuarios NO necesitan reinstalar nada.
+- Azure descargará automáticamente la nueva imagen.
+- La aplicación escala a cero cuando no se usa.
+- Si la nueva versión falla, hacer rollback inmediatamente.
