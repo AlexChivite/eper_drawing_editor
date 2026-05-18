@@ -65,7 +65,8 @@ EDITABLE_TEXT_FIELDS = (
     "approved",
     "control_plan_quality_specification",
 )
-DRAWING_CODE_PATTERN = re.compile(r"\bGP\d{6}(?:[-_A-Z0-9]+)*\b", re.IGNORECASE)
+DRAWING_CODE_PATTERN = re.compile(r"^[A-Z0-9]+(?:[-_][A-Z0-9]+)*$", re.IGNORECASE)
+DRAWING_CODE_MIN_LENGTH = 6
 PARENT_DRAWING_NUMBER_REPORT_SUFFIX = "_parent_drawing_numbers_dry_run.csv"
 PARENT_DRAWING_NUMBER_WRITE_STATUSES = {"exact_unique", "exact_multiple"}
 PARENT_TABLE_FONT_SIZE = 4.0
@@ -477,10 +478,16 @@ def normalized_label(text: str) -> str:
 
 
 def normalize_drawing_code(text: str) -> str | None:
-    match = DRAWING_CODE_PATTERN.search(text.upper())
-    if match is None:
+    candidate = text.upper().strip().rstrip(".,;:")
+    if len(candidate) < DRAWING_CODE_MIN_LENGTH:
         return None
-    return match.group(0).rstrip(".,;:")
+    if DRAWING_CODE_PATTERN.fullmatch(candidate) is None:
+        return None
+    if not any(char.isalpha() for char in candidate):
+        return None
+    if not any(char.isdigit() for char in candidate):
+        return None
+    return candidate
 
 
 def word_center_x(word: tuple[Any, ...]) -> float:
