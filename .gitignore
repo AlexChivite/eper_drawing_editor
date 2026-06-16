@@ -1,5 +1,5 @@
 .venv/
 planos/
 __pycache__/
-input_pdfs
-output_pdfs
+input_pdfs/
+output_pdfs/
